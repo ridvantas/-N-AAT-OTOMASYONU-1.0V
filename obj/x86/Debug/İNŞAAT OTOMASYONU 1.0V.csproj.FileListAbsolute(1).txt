@@ -1,0 +1,78 @@
+c:\users\rıdvan\documents\visual studio 2010\Projects\İNŞAAT OTOMASYONU 1.0V\İNŞAAT OTOMASYONU 1.0V\bin\Debug\İNŞAAT OTOMASYONU 1.0V.exe
+c:\users\rıdvan\documents\visual studio 2010\Projects\İNŞAAT OTOMASYONU 1.0V\İNŞAAT OTOMASYONU 1.0V\bin\Debug\İNŞAAT OTOMASYONU 1.0V.pdb
+c:\users\rıdvan\documents\visual studio 2010\Projects\İNŞAAT OTOMASYONU 1.0V\İNŞAAT OTOMASYONU 1.0V\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\rıdvan\documents\visual studio 2010\Projects\İNŞAAT OTOMASYONU 1.0V\İNŞAAT OTOMASYONU 1.0V\obj\x86\Debug\İNŞAAT_OTOMASYONU_1._0V.Properties.Resources.resources
+c:\users\rıdvan\documents\visual studio 2010\Projects\İNŞAAT OTOMASYONU 1.0V\İNŞAAT OTOMASYONU 1.0V\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\rıdvan\documents\visual studio 2010\Projects\İNŞAAT OTOMASYONU 1.0V\İNŞAAT OTOMASYONU 1.0V\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\rıdvan\documents\visual studio 2010\Projects\İNŞAAT OTOMASYONU 1.0V\İNŞAAT OTOMASYONU 1.0V\obj\x86\Debug\İNŞAAT OTOMASYONU 1.0V.exe
+c:\users\rıdvan\documents\visual studio 2010\Projects\İNŞAAT OTOMASYONU 1.0V\İNŞAAT OTOMASYONU 1.0V\obj\x86\Debug\İNŞAAT OTOMASYONU 1.0V.pdb
+c:\users\rıdvan\documents\visual studio 2010\Projects\İNŞAAT OTOMASYONU 1.0V\İNŞAAT OTOMASYONU 1.0V\obj\x86\Debug\İNŞAAT_OTOMASYONU_1._0V.ANA_MENÜ.resources
+c:\users\rıdvan\documents\visual studio 2010\Projects\İNŞAAT OTOMASYONU 1.0V\İNŞAAT OTOMASYONU 1.0V\obj\x86\Debug\İNŞAAT_OTOMASYONU_1._0V.GİRİŞ.resources
+c:\users\rıdvan\documents\visual studio 2010\Projects\İNŞAAT OTOMASYONU 1.0V\İNŞAAT OTOMASYONU 1.0V\obj\x86\Debug\İNŞAAT_OTOMASYONU_1._0V.Aldigi_is.resources
+c:\users\rıdvan\documents\visual studio 2010\Projects\İNŞAAT OTOMASYONU 1.0V\İNŞAAT OTOMASYONU 1.0V\obj\x86\Debug\İNŞAAT_OTOMASYONU_1._0V.Aldigi_İs_Ana_Menu.resources
+c:\users\rıdvan\documents\visual studio 2010\Projects\İNŞAAT OTOMASYONU 1.0V\İNŞAAT OTOMASYONU 1.0V\obj\x86\Debug\İNŞAAT_OTOMASYONU_1._0V.GOREVİ_ANA_MENU.resources
+c:\users\rıdvan\documents\visual studio 2010\Projects\İNŞAAT OTOMASYONU 1.0V\İNŞAAT OTOMASYONU 1.0V\obj\x86\Debug\İNŞAAT_OTOMASYONU_1._0V.GOREVİ.resources
+C:\Users\Rıdvan\Documents\Visual Studio 2010\Projects\İNŞAAT OTOMASYONU 1.0V\İNŞAAT OTOMASYONU 1.0V\obj\x86\Debug\İNŞAAT_OTOMASYONU_1._0V.PERSONEL_ANA_MENU.resources
+C:\Users\Rıdvan\Documents\Visual Studio 2010\Projects\İNŞAAT OTOMASYONU 1.0V\İNŞAAT OTOMASYONU 1.0V\obj\x86\Debug\İNŞAAT_OTOMASYONU_1._0V.Personel.resources
+C:\Users\Rıdvan\Documents\Visual Studio 2010\Projects\İNŞAAT OTOMASYONU 1.0V\İNŞAAT OTOMASYONU 1.0V\obj\x86\Debug\İNŞAAT_OTOMASYONU_1._0V.YAPTIGI_IS_ANA_MENU.resources
+C:\Users\Rıdvan\Documents\Visual Studio 2010\Projects\İNŞAAT OTOMASYONU 1.0V\İNŞAAT OTOMASYONU 1.0V\obj\x86\Debug\İNŞAAT_OTOMASYONU_1._0V.Yaptigi_İs.resources
+C:\Users\Rıdvan\Documents\Visual Studio 2010\Projects\İNŞAAT OTOMASYONU 1.0V\İNŞAAT OTOMASYONU 1.0V\obj\x86\Debug\İNŞAAT_OTOMASYONU_1._0V.Yasadigi_Yer.resources
+C:\Users\Rıdvan\Documents\Visual Studio 2010\Projects\İNŞAAT OTOMASYONU 1.0V\İNŞAAT OTOMASYONU 1.0V\obj\x86\Debug\İNŞAAT_OTOMASYONU_1._0V.YASADIGI_YER_ANA_MENU.resources
+C:\Users\Rıdvan\Documents\Visual Studio 2010\Projects\İNŞAAT OTOMASYONU 1.0V\İNŞAAT OTOMASYONU 1.0V\obj\x86\Debug\İNŞAAT_OTOMASYONU_1._0V.Yapi.resources
+C:\Users\Rıdvan\Documents\Visual Studio 2010\Projects\İNŞAAT OTOMASYONU 1.0V\İNŞAAT OTOMASYONU 1.0V\obj\x86\Debug\İNŞAAT_OTOMASYONU_1._0V.YAPI_ANA_MENU.resources
+C:\Users\Rıdvan\Desktop\insaat_proje\İNŞAAT OTOMASYONU 1.0V\obj\x86\Debug\İNŞAAT OTOMASYONU 1.0V.exe
+C:\Users\Rıdvan\Desktop\insaat_proje\İNŞAAT OTOMASYONU 1.0V\obj\x86\Debug\İNŞAAT OTOMASYONU 1.0V.pdb
+C:\Users\Rıdvan\Desktop\insaat_proje\İNŞAAT OTOMASYONU 1.0V\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Rıdvan\Desktop\insaat_proje\İNŞAAT OTOMASYONU 1.0V\obj\x86\Debug\İNŞAAT_OTOMASYONU_1._0V.ALDIGI_İS_ANA_MENU.resources
+C:\Users\Rıdvan\Desktop\insaat_proje\İNŞAAT OTOMASYONU 1.0V\obj\x86\Debug\İNŞAAT_OTOMASYONU_1._0V.ANA_MENÜ.resources
+C:\Users\Rıdvan\Desktop\insaat_proje\İNŞAAT OTOMASYONU 1.0V\obj\x86\Debug\İNŞAAT_OTOMASYONU_1._0V.GOREVİ.resources
+C:\Users\Rıdvan\Desktop\insaat_proje\İNŞAAT OTOMASYONU 1.0V\obj\x86\Debug\İNŞAAT_OTOMASYONU_1._0V.GOREVİ_ANA_MENU.resources
+C:\Users\Rıdvan\Desktop\insaat_proje\İNŞAAT OTOMASYONU 1.0V\obj\x86\Debug\İNŞAAT_OTOMASYONU_1._0V.GİRİŞ.resources
+C:\Users\Rıdvan\Desktop\insaat_proje\İNŞAAT OTOMASYONU 1.0V\obj\x86\Debug\İNŞAAT_OTOMASYONU_1._0V.Aldigi_is.resources
+C:\Users\Rıdvan\Desktop\insaat_proje\İNŞAAT OTOMASYONU 1.0V\obj\x86\Debug\İNŞAAT_OTOMASYONU_1._0V.Personel.resources
+C:\Users\Rıdvan\Desktop\insaat_proje\İNŞAAT OTOMASYONU 1.0V\obj\x86\Debug\İNŞAAT_OTOMASYONU_1._0V.PERSONEL_ANA_MENU.resources
+C:\Users\Rıdvan\Desktop\insaat_proje\İNŞAAT OTOMASYONU 1.0V\obj\x86\Debug\İNŞAAT_OTOMASYONU_1._0V.Properties.Resources.resources
+C:\Users\Rıdvan\Desktop\insaat_proje\İNŞAAT OTOMASYONU 1.0V\obj\x86\Debug\İNŞAAT_OTOMASYONU_1._0V.Yapi.resources
+C:\Users\Rıdvan\Desktop\insaat_proje\İNŞAAT OTOMASYONU 1.0V\obj\x86\Debug\İNŞAAT_OTOMASYONU_1._0V.YAPI_ANA_MENU.resources
+C:\Users\Rıdvan\Desktop\insaat_proje\İNŞAAT OTOMASYONU 1.0V\obj\x86\Debug\İNŞAAT_OTOMASYONU_1._0V.YAPTIGI_IS_ANA_MENU.resources
+C:\Users\Rıdvan\Desktop\insaat_proje\İNŞAAT OTOMASYONU 1.0V\obj\x86\Debug\İNŞAAT_OTOMASYONU_1._0V.Yaptigi_İs.resources
+C:\Users\Rıdvan\Desktop\insaat_proje\İNŞAAT OTOMASYONU 1.0V\obj\x86\Debug\İNŞAAT_OTOMASYONU_1._0V.Yasadigi_Yer.resources
+C:\Users\Rıdvan\Desktop\insaat_proje\İNŞAAT OTOMASYONU 1.0V\obj\x86\Debug\İNŞAAT_OTOMASYONU_1._0V.YASADIGI_YER_ANA_MENU.resources
+C:\Users\Rıdvan\Desktop\insaat_proje\İNŞAAT OTOMASYONU 1.0V\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Rıdvan\Desktop\insaat_proje\İNŞAAT OTOMASYONU 1.0V\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Rıdvan\Desktop\İNŞAAT OTOMASYONU 1.0V\obj\x86\Debug\İNŞAAT OTOMASYONU 1.0V.exe
+C:\Users\Rıdvan\Desktop\İNŞAAT OTOMASYONU 1.0V\obj\x86\Debug\İNŞAAT OTOMASYONU 1.0V.pdb
+C:\Users\Rıdvan\Desktop\İNŞAAT OTOMASYONU 1.0V\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Rıdvan\Desktop\İNŞAAT OTOMASYONU 1.0V\obj\x86\Debug\İNŞAAT_OTOMASYONU_1._0V.ALDIGI_İS_ANA_MENU.resources
+C:\Users\Rıdvan\Desktop\İNŞAAT OTOMASYONU 1.0V\obj\x86\Debug\İNŞAAT_OTOMASYONU_1._0V.ANA_MENÜ.resources
+C:\Users\Rıdvan\Desktop\İNŞAAT OTOMASYONU 1.0V\obj\x86\Debug\İNŞAAT_OTOMASYONU_1._0V.GOREVİ.resources
+C:\Users\Rıdvan\Desktop\İNŞAAT OTOMASYONU 1.0V\obj\x86\Debug\İNŞAAT_OTOMASYONU_1._0V.GOREVİ_ANA_MENU.resources
+C:\Users\Rıdvan\Desktop\İNŞAAT OTOMASYONU 1.0V\obj\x86\Debug\İNŞAAT_OTOMASYONU_1._0V.GİRİŞ.resources
+C:\Users\Rıdvan\Desktop\İNŞAAT OTOMASYONU 1.0V\obj\x86\Debug\İNŞAAT_OTOMASYONU_1._0V.Aldigi_is.resources
+C:\Users\Rıdvan\Desktop\İNŞAAT OTOMASYONU 1.0V\obj\x86\Debug\İNŞAAT_OTOMASYONU_1._0V.Personel.resources
+C:\Users\Rıdvan\Desktop\İNŞAAT OTOMASYONU 1.0V\obj\x86\Debug\İNŞAAT_OTOMASYONU_1._0V.PERSONEL_ANA_MENU.resources
+C:\Users\Rıdvan\Desktop\İNŞAAT OTOMASYONU 1.0V\obj\x86\Debug\İNŞAAT_OTOMASYONU_1._0V.Properties.Resources.resources
+C:\Users\Rıdvan\Desktop\İNŞAAT OTOMASYONU 1.0V\obj\x86\Debug\İNŞAAT_OTOMASYONU_1._0V.Yapi.resources
+C:\Users\Rıdvan\Desktop\İNŞAAT OTOMASYONU 1.0V\obj\x86\Debug\İNŞAAT_OTOMASYONU_1._0V.YAPI_ANA_MENU.resources
+C:\Users\Rıdvan\Desktop\İNŞAAT OTOMASYONU 1.0V\obj\x86\Debug\İNŞAAT_OTOMASYONU_1._0V.YAPTIGI_IS_ANA_MENU.resources
+C:\Users\Rıdvan\Desktop\İNŞAAT OTOMASYONU 1.0V\obj\x86\Debug\İNŞAAT_OTOMASYONU_1._0V.Yaptigi_İs.resources
+C:\Users\Rıdvan\Desktop\İNŞAAT OTOMASYONU 1.0V\obj\x86\Debug\İNŞAAT_OTOMASYONU_1._0V.Yasadigi_Yer.resources
+C:\Users\Rıdvan\Desktop\İNŞAAT OTOMASYONU 1.0V\obj\x86\Debug\İNŞAAT_OTOMASYONU_1._0V.YASADIGI_YER_ANA_MENU.resources
+C:\Users\Rıdvan\Desktop\İNŞAAT OTOMASYONU 1.0V\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Rıdvan\Desktop\İNŞAAT OTOMASYONU 1.0V\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Rıdvan\Desktop\İNŞAAT OTOMASYONU 1.0V\bin\Debug\İNŞAAT OTOMASYONU 1.0V.exe
+C:\Users\Rıdvan\Desktop\İNŞAAT OTOMASYONU 1.0V\bin\Debug\İNŞAAT OTOMASYONU 1.0V.pdb
+C:\Users\Rıdvan\Desktop\İNŞAAT OTOMASYONU 1.0V\obj\x86\Debug\İNŞAAT_OTOMASYONU_1._0V.KAYIT.resources
+C:\Users\Rıdvan\Desktop\İNŞAAT OTOMASYONU 1.0V\obj\x86\Debug\İNŞAAT_OTOMASYONU_1._0V.Aldigiisguncelle.resources
+C:\Users\Rıdvan\Desktop\İNŞAAT OTOMASYONU 1.0V\obj\x86\Debug\İNŞAAT_OTOMASYONU_1._0V.goreviguncelle.resources
+C:\Users\Rıdvan\Desktop\İNŞAAT OTOMASYONU 1.0V\obj\x86\Debug\İNŞAAT_OTOMASYONU_1._0V.personelguncelle.resources
+C:\Users\Rıdvan\Desktop\İNŞAAT OTOMASYONU 1.0V\obj\x86\Debug\İNŞAAT_OTOMASYONU_1._0V.yapiguncelle.resources
+C:\Users\Rıdvan\Desktop\İNŞAAT OTOMASYONU 1.0V\obj\x86\Debug\İNŞAAT_OTOMASYONU_1._0V.Yaptigiisguncelle.resources
+C:\Users\Rıdvan\Desktop\İNŞAAT OTOMASYONU 1.0V\obj\x86\Debug\İNŞAAT_OTOMASYONU_1._0V.yasadigiyerguncelle.resources
+C:\Users\Rıdvan\Desktop\İNŞAAT OTOMASYONU 1.0V\bin\Debug\İNŞAAT OTOMASYONU 1.0V.exe.config
+C:\Users\Rıdvan\Desktop\İNŞAAT OTOMASYONU 1.0V\obj\x86\Debug\İNŞAAT_OTOMASYONU_1._0V.Aligiisrapor.resources
+C:\Users\Rıdvan\Desktop\İNŞAAT OTOMASYONU 1.0V\obj\x86\Debug\İNŞAAT_OTOMASYONU_1._0V.gorevirapor.resources
+C:\Users\Rıdvan\Desktop\İNŞAAT OTOMASYONU 1.0V\obj\x86\Debug\İNŞAAT_OTOMASYONU_1._0V.personelrapor.resources
+C:\Users\Rıdvan\Desktop\İNŞAAT OTOMASYONU 1.0V\obj\x86\Debug\İNŞAAT_OTOMASYONU_1._0V.yaptigiisrapor.resources
+C:\Users\Rıdvan\Desktop\İNŞAAT OTOMASYONU 1.0V\obj\x86\Debug\İNŞAAT_OTOMASYONU_1._0V.yapirapor.resources
+C:\Users\Rıdvan\Desktop\İNŞAAT OTOMASYONU 1.0V\obj\x86\Debug\İNŞAAT_OTOMASYONU_1._0V.yasadigiyerrapor.resources

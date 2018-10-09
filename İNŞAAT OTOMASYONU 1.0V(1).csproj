@@ -1,0 +1,394 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{3B075AA9-9729-4A47-8207-2598E1176F50}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>İNŞAAT_OTOMASYONU_1._0V</RootNamespace>
+    <AssemblyName>İNŞAAT OTOMASYONU 1.0V</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>
+    </TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.ReportSource, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.Shared, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.Windows.Forms, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="FlashControlV71, Version=1.0.3187.32366, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Aligiisrapor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Aligiisrapor.Designer.cs">
+      <DependentUpon>Aligiisrapor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CrystalReport1aldigiis.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>CrystalReport1aldigiis.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="CrystalReportgorevi.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>CrystalReportgorevi.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="CrystalReportpersonel.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>CrystalReportpersonel.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="CrystalReportyapi.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>CrystalReportyapi.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="CrystalReportyaptigiis.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>CrystalReportyaptigiis.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="CrystalReportyasadigiyer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>CrystalReportyasadigiyer.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="gorevirapor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="gorevirapor.Designer.cs">
+      <DependentUpon>gorevirapor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUNCELLEMER\Aldigiisguncelle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUNCELLEMER\Aldigiisguncelle.Designer.cs">
+      <DependentUpon>Aldigiisguncelle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ANAMENULER\ALDIGI_İS_ANA_MENU.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ANAMENULER\ALDIGI_İS_ANA_MENU.Designer.cs">
+      <DependentUpon>ALDIGI_İS_ANA_MENU.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ANA_MENU.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ANA_MENU.Designer.cs">
+      <DependentUpon>ANA_MENU.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUNCELLEMER\goreviguncelle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUNCELLEMER\goreviguncelle.Designer.cs">
+      <DependentUpon>goreviguncelle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="KAYITLAR\GOREVİ.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="KAYITLAR\GOREVİ.Designer.cs">
+      <DependentUpon>GOREVİ.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ANAMENULER\GOREVİ_ANA_MENU.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ANAMENULER\GOREVİ_ANA_MENU.Designer.cs">
+      <DependentUpon>GOREVİ_ANA_MENU.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GİRİŞ.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GİRİŞ.Designer.cs">
+      <DependentUpon>GİRİŞ.cs</DependentUpon>
+    </Compile>
+    <Compile Include="KAYITLAR\Aldigi_is.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="KAYITLAR\Aldigi_is.Designer.cs">
+      <DependentUpon>Aldigi_is.cs</DependentUpon>
+    </Compile>
+    <Compile Include="KAYITLAR\KAYIT.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="KAYITLAR\KAYIT.Designer.cs">
+      <DependentUpon>KAYIT.cs</DependentUpon>
+    </Compile>
+    <Compile Include="KAYITLAR\Personel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="KAYITLAR\Personel.Designer.cs">
+      <DependentUpon>Personel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUNCELLEMER\personelguncelle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUNCELLEMER\personelguncelle.Designer.cs">
+      <DependentUpon>personelguncelle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ANAMENULER\PERSONEL_ANA_MENU.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ANAMENULER\PERSONEL_ANA_MENU.Designer.cs">
+      <DependentUpon>PERSONEL_ANA_MENU.cs</DependentUpon>
+    </Compile>
+    <Compile Include="personelrapor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="personelrapor.Designer.cs">
+      <DependentUpon>personelrapor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="KAYITLAR\Yapi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="KAYITLAR\Yapi.Designer.cs">
+      <DependentUpon>Yapi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUNCELLEMER\yapiguncelle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUNCELLEMER\yapiguncelle.Designer.cs">
+      <DependentUpon>yapiguncelle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ANAMENULER\YAPI_ANA_MENU.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ANAMENULER\YAPI_ANA_MENU.Designer.cs">
+      <DependentUpon>YAPI_ANA_MENU.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUNCELLEMER\Yaptigiisguncelle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUNCELLEMER\Yaptigiisguncelle.Designer.cs">
+      <DependentUpon>Yaptigiisguncelle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ANAMENULER\YAPTIGI_IS_ANA_MENU.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ANAMENULER\YAPTIGI_IS_ANA_MENU.Designer.cs">
+      <DependentUpon>YAPTIGI_IS_ANA_MENU.cs</DependentUpon>
+    </Compile>
+    <Compile Include="KAYITLAR\Yaptigi_İs.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="KAYITLAR\Yaptigi_İs.Designer.cs">
+      <DependentUpon>Yaptigi_İs.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUNCELLEMER\yasadigiyerguncelle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUNCELLEMER\yasadigiyerguncelle.Designer.cs">
+      <DependentUpon>yasadigiyerguncelle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="KAYITLAR\Yasadigi_Yer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="KAYITLAR\Yasadigi_Yer.Designer.cs">
+      <DependentUpon>Yasadigi_Yer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ANAMENULER\YASADIGI_YER_ANA_MENU.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ANAMENULER\YASADIGI_YER_ANA_MENU.Designer.cs">
+      <DependentUpon>YASADIGI_YER_ANA_MENU.cs</DependentUpon>
+    </Compile>
+    <Compile Include="yapirapor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="yapirapor.Designer.cs">
+      <DependentUpon>yapirapor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="yaptigiisrapor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="yaptigiisrapor.Designer.cs">
+      <DependentUpon>yaptigiisrapor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="yasadigiyerrapor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="yasadigiyerrapor.Designer.cs">
+      <DependentUpon>yasadigiyerrapor.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Aligiisrapor.resx">
+      <DependentUpon>Aligiisrapor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CrystalReport1aldigiis.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>CrystalReport1aldigiis.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CrystalReportgorevi.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>CrystalReportgorevi.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CrystalReportpersonel.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>CrystalReportpersonel.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CrystalReportyapi.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>CrystalReportyapi.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CrystalReportyaptigiis.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>CrystalReportyaptigiis.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CrystalReportyasadigiyer.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>CrystalReportyasadigiyer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="gorevirapor.resx">
+      <DependentUpon>gorevirapor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUNCELLEMER\Aldigiisguncelle.resx">
+      <DependentUpon>Aldigiisguncelle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ANAMENULER\ALDIGI_İS_ANA_MENU.resx">
+      <DependentUpon>ALDIGI_İS_ANA_MENU.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ANA_MENU.resx">
+      <DependentUpon>ANA_MENU.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUNCELLEMER\goreviguncelle.resx">
+      <DependentUpon>goreviguncelle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="KAYITLAR\GOREVİ.resx">
+      <DependentUpon>GOREVİ.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ANAMENULER\GOREVİ_ANA_MENU.resx">
+      <DependentUpon>GOREVİ_ANA_MENU.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GİRİŞ.resx">
+      <DependentUpon>GİRİŞ.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="KAYITLAR\Aldigi_is.resx">
+      <DependentUpon>Aldigi_is.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="KAYITLAR\KAYIT.resx">
+      <DependentUpon>KAYIT.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="KAYITLAR\Personel.resx">
+      <DependentUpon>Personel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUNCELLEMER\personelguncelle.resx">
+      <DependentUpon>personelguncelle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ANAMENULER\PERSONEL_ANA_MENU.resx">
+      <DependentUpon>PERSONEL_ANA_MENU.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="personelrapor.resx">
+      <DependentUpon>personelrapor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="KAYITLAR\Yapi.resx">
+      <DependentUpon>Yapi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUNCELLEMER\yapiguncelle.resx">
+      <DependentUpon>yapiguncelle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ANAMENULER\YAPI_ANA_MENU.resx">
+      <DependentUpon>YAPI_ANA_MENU.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUNCELLEMER\Yaptigiisguncelle.resx">
+      <DependentUpon>Yaptigiisguncelle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ANAMENULER\YAPTIGI_IS_ANA_MENU.resx">
+      <DependentUpon>YAPTIGI_IS_ANA_MENU.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="KAYITLAR\Yaptigi_İs.resx">
+      <DependentUpon>Yaptigi_İs.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUNCELLEMER\yasadigiyerguncelle.resx">
+      <DependentUpon>yasadigiyerguncelle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="KAYITLAR\Yasadigi_Yer.resx">
+      <DependentUpon>Yasadigi_Yer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ANAMENULER\YASADIGI_YER_ANA_MENU.resx">
+      <DependentUpon>YASADIGI_YER_ANA_MENU.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="yapirapor.resx">
+      <DependentUpon>yapirapor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="yaptigiisrapor.resx">
+      <DependentUpon>yaptigiisrapor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="yasadigiyerrapor.resx">
+      <DependentUpon>yasadigiyerrapor.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="app.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{C0C07587-41A7-46C8-8FBD-3F9C8EBE2DDC}" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
